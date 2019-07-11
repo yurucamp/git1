@@ -32,5 +32,5 @@ We can include images like this:
 
 ![Giants' causeway](causeway.jpg) 
 
-(base) D-10-18-212-242:~ irischang$ 
+
 
