@@ -1,4 +1,4 @@
 # git1
-learn git
+Learn Git
 
 This is just a demo repo for the course IMT 511
